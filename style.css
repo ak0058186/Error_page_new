@@ -1,0 +1,29 @@
+*{
+  text-align:center;
+  font-size:100%;
+  font-family:'Courier New', Courier, monospace;
+  padding:1%;
+  margin:1%;
+  font-size: 150%;
+}
+
+.error-container{
+  text-align:center;
+  font-size:100%;
+  font-family:Cursive;
+  padding:1%;
+  margin:1%;
+  font-size: 150%;
+  color:red;
+  /* background-image: url("6iDG9J.jpg"); */
+  /* padding:1px; */
+  /* margin:1px; */
+
+
+
+}
+a{
+  
+  font-style: oblique;
+
+}
